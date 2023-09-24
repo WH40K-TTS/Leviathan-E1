@@ -1,0 +1,280 @@
++++ Torneo Online (Warhammer 40,000 10th Edition) [2,000pts] +++
+
+++ Army Roster (Xenos - Tyranids) [2,000pts] ++
+Rules: Synapse
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+. Categories: Configuration
+
+Detachment: Unending Swarm
+. Categories: Configuration
+. Abilities: Insurmountable Odds
+Profiles:
+. Insurmountable Odds: Description:Each time an enemy unit is selected to shoot, after that unit has finished making its attacks, if one or more ENDLESS MULTITUDE units from your army were destroyed as a result of those attacks, each such unit can make a Surge move. To do so, roll one D6: that unit can be moved a distance in inches up to the result, but that unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of enemy units. A unit cannot make a Surge Move while Battle-shocked|
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Foritifications are visible
+. Categories: Configuration
+
++ Character [580pts] +
+
+Neurotyrant [135pts]: Naturalised Camoflage [30pts], Neurotyrant claws and lashes, Psychic scream, Warlord
+. Categories: Character, Monster, Fly, Psyker, Great Devourer, Neurotyrant, Faction: Tyranids, Synapse, Warlord
+. Rules: Ignores Cover, Leader, Shadow in the Warp, Synapse, Torrent
+. Abilities: Invulnerable Save, Leader, Naturalised Camoflage, Node Lash (Psychic), Psychic Terror (Psychic), Synaptic Relays, Melee Weapons: Neurotyrant claws and lashes, Ranged Weapons: Psychic scream, Unit: Neurotyrant
+Profiles:
+. Invulnerable Save: Description:This model has a 4+ invulnerable save.|
+. Leader: Description:This model can be attached to the following units:
+- NEUROGAUNT
+- TYRANT GUARD|
+. Naturalised Camoflage: Description:Tyranids model only. At the start of the first battle round, select up to three friendly ENDLESS MULTITUDE units within 9" of the bearer. Until the end of the battle round, each time a ranged attack targets one of those units, models in that unit have the Benefit of Cover against that attack.|
+. Node Lash (Psychic): Description:While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll. If the target is Battle-shocked, add 1 to the Wound roll as well.|
+. Psychic Terror (Psychic): Description:If one or more Neurotyrants from your army are on the battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each enemy unit on the battlefield must take as a result.|
+. Synaptic Relays: Description:In your Command phase, you can select up to two friendly Tyranids units within 12" of this model’s unit. Until the start of your next Command phase, the selected units are always considered to be within Synapse Range of your army.|
+. Neurotyrant claws and lashes: Range:Melee|A:6+|WS:3+|S:5|AP:0|D:1|Keywords:-|
+. Psychic scream: Range:18"|A:2D6|BS:N/A|S:5|AP:-1|D:2|Keywords:Ignores Cover, Psychic, Torrent|
+. Neurotyrant: M:6"|T:8|SV:4+|W:9|LD:7+|OC:3|
+
+Tervigon [190pts]: Massive Crushing Claws, Stinger Salvoes
+. Categories: Character, Monster, Psyker, Great Devourer, Tervigon, Faction: Tyranids, Synapse
+. Rules: Deadly Demise D6, Shadow in the Warp, Synapse
+. Abilities: Brood Progenitor (Aura, Psychic), Damaged, Spawn Termagants, Melee Weapons: Massive Crushing Claws, Ranged Weapons: Stinger Salvoes, Unit: Tervigon
+Profiles:
+. Brood Progenitor (Aura, Psychic): Description:While a friendly TERMAGANTS unit is within 6" of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability.|
+. Damaged: Description:While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.|
+. Spawn Termagants: Description:In your Command phase, you can select one friendly TERMAGANTS unit within 6" of this model and return up to D3+3 destroyed TERMAGANT models to that unit. A TERMAGANTS unit cannot be selected for this ability more than once per phase|
+. Massive Crushing Claws: Range:Melee|A:4|WS:4+|S:12|AP:-3|D:D6+1|Keywords:-|
+. Stinger Salvoes: Range:24"|A:8|BS:3+|S:5|AP:0|D:1|Keywords:-|
+. Tervigon: M:8"|T:11|SV:2+|W:16|LD:7+|OC:5|
+
+Tervigon [190pts]: Massive Crushing Claws, Stinger Salvoes
+. Categories: Character, Monster, Psyker, Great Devourer, Tervigon, Faction: Tyranids, Synapse
+. Rules: Deadly Demise D6, Shadow in the Warp, Synapse
+. Abilities: Brood Progenitor (Aura, Psychic), Damaged, Spawn Termagants, Melee Weapons: Massive Crushing Claws, Ranged Weapons: Stinger Salvoes, Unit: Tervigon
+Profiles:
+. Brood Progenitor (Aura, Psychic): Description:While a friendly TERMAGANTS unit is within 6" of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability.|
+. Damaged: Description:While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.|
+. Spawn Termagants: Description:In your Command phase, you can select one friendly TERMAGANTS unit within 6" of this model and return up to D3+3 destroyed TERMAGANT models to that unit. A TERMAGANTS unit cannot be selected for this ability more than once per phase|
+. Massive Crushing Claws: Range:Melee|A:4|WS:4+|S:12|AP:-3|D:D6+1|Keywords:-|
+. Stinger Salvoes: Range:24"|A:8|BS:3+|S:5|AP:0|D:1|Keywords:-|
+. Tervigon: M:8"|T:11|SV:2+|W:16|LD:7+|OC:5|
+
+Winged Tyranid Prime [65pts]: Prime Talons
+. Categories: Winged Tyranid Prime, Character, Infantry, Fly, Great Devourer, Faction: Tyranids, Synapse, Vanguard Invader
+. Rules: Deep Strike, Leader, Shadow in the Warp, Synapse
+. Abilities: Alpha Warrior, Death Blow, Leader, Melee Weapons: Prime Talons, Unit: Winged Tyranid Prime
+Profiles:
+. Alpha Warrior: Description:While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.|
+. Death Blow: Description:If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.|
+. Leader: Description:This model can be attached to the following units:
+- GARGOYLES
+- TYRANID WARRIORS WITH MELEE BIO-WEAPONS
+- TYRANID WARRIORS WITH RANGED BIO-WEAPONS|
+. Prime Talons: Range:Melee|A:6|WS:2+|S:6|AP:-2|D:2|Keywords:-|
+. Winged Tyranid Prime: M:12"|T:5|SV:4+|W:6|LD:7+|OC:1|
+
++ Battleline [1,030pts] +
+
+Gargoyles [150pts]
+. Categories: Battleline, Infantry, Fly, Gargoyles, Great Devourer, Faction: Tyranids, Endless Multitude, Vanguard Invader
+. Rules: Synapse
+. Abilities: Winged Swarm
+. 20x Gargoyles: 20x Blinding Venom, 20x Fleshborer
+. . Rules: Assault
+. . Melee Weapons: Blinding Venom, Ranged Weapons: Fleshborer, Unit: Gargoyles
+Profiles:
+. Winged Swarm: Description:In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6". If it does, until the end of the turn, this unit is not eligible to declare a charge.|
+. Blinding Venom: Range:Melee|A:1|WS:4+|S:3|AP:0|D:1|Keywords:-|
+. Fleshborer: Range:18"|A:1|BS:4+|S:5|AP:0|D:1|Keywords:Assault|
+. Gargoyles: M:12"|T:3|SV:6+|W:1|LD:8+|OC:2|
+
+Hormagaunts [130pts]
+. Categories: Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts, Faction: Tyranids
+. Rules: Synapse
+. Abilities: Bounding Leap
+. 20x Hormagaunts: 20x Hormagaunt talons
+. . Melee Weapons: Hormagaunt talons, Unit: Hormagaunts
+Profiles:
+. Bounding Leap: Description:This unit is eligible to declare a charge in a turn in which it Advanced.|
+. Hormagaunt talons: Range:Melee|A:3|WS:4+|S:3|AP:-1|D:1|Keywords:-|
+. Hormagaunts: M:10"|T:3|SV:5+|W:1|LD:8+|OC:2|
+
+Hormagaunts [130pts]
+. Categories: Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts, Faction: Tyranids
+. Rules: Synapse
+. Abilities: Bounding Leap
+. 20x Hormagaunts: 20x Hormagaunt talons
+. . Melee Weapons: Hormagaunt talons, Unit: Hormagaunts
+Profiles:
+. Bounding Leap: Description:This unit is eligible to declare a charge in a turn in which it Advanced.|
+. Hormagaunt talons: Range:Melee|A:3|WS:4+|S:3|AP:-1|D:1|Keywords:-|
+. Hormagaunts: M:10"|T:3|SV:5+|W:1|LD:8+|OC:2|
+
+Hormagaunts [130pts]
+. Categories: Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts, Faction: Tyranids
+. Rules: Synapse
+. Abilities: Bounding Leap
+. 20x Hormagaunts: 20x Hormagaunt talons
+. . Melee Weapons: Hormagaunt talons, Unit: Hormagaunts
+Profiles:
+. Bounding Leap: Description:This unit is eligible to declare a charge in a turn in which it Advanced.|
+. Hormagaunt talons: Range:Melee|A:3|WS:4+|S:3|AP:-1|D:1|Keywords:-|
+. Hormagaunts: M:10"|T:3|SV:5+|W:1|LD:8+|OC:2|
+
+Hormagaunts [130pts]
+. Categories: Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts, Faction: Tyranids
+. Rules: Synapse
+. Abilities: Bounding Leap
+. 20x Hormagaunts: 20x Hormagaunt talons
+. . Melee Weapons: Hormagaunt talons, Unit: Hormagaunts
+Profiles:
+. Bounding Leap: Description:This unit is eligible to declare a charge in a turn in which it Advanced.|
+. Hormagaunt talons: Range:Melee|A:3|WS:4+|S:3|AP:-1|D:1|Keywords:-|
+. Hormagaunts: M:10"|T:3|SV:5+|W:1|LD:8+|OC:2|
+
+Termagants [120pts]
+. Categories: Battleline, Infantry, Great Devourer, Faction: Tyranids, Endless Multitude, Termagants
+. Rules: Synapse
+. Abilities: Skulking Horrors
+. 20x Termagants: 20x Fleshborer, 20x Xenos Claws and Teeth
+. . Rules: Assault
+. . Melee Weapons: Xenos Claws and Teeth, Ranged Weapons: Fleshborer, Unit: Termagants
+Profiles:
+. Skulking Horrors: Description:Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6".|
+. Xenos Claws and Teeth: Range:Melee|A:1|WS:4+|S:3|AP:0|D:1|Keywords:-|
+. Fleshborer: Range:18"|A:1|BS:4+|S:5|AP:0|D:1|Keywords:Assault|
+. Termagants: M:6"|T:3|SV:5+|W:1|LD:8+|OC:2|
+
+Termagants [120pts]
+. Categories: Battleline, Infantry, Great Devourer, Faction: Tyranids, Endless Multitude, Termagants
+. Rules: Synapse
+. Abilities: Skulking Horrors
+. 20x Termagants: 20x Fleshborer, 20x Xenos Claws and Teeth
+. . Rules: Assault
+. . Melee Weapons: Xenos Claws and Teeth, Ranged Weapons: Fleshborer, Unit: Termagants
+Profiles:
+. Skulking Horrors: Description:Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6".|
+. Xenos Claws and Teeth: Range:Melee|A:1|WS:4+|S:3|AP:0|D:1|Keywords:-|
+. Fleshborer: Range:18"|A:1|BS:4+|S:5|AP:0|D:1|Keywords:Assault|
+. Termagants: M:6"|T:3|SV:5+|W:1|LD:8+|OC:2|
+
+Termagants [120pts]
+. Categories: Battleline, Infantry, Great Devourer, Faction: Tyranids, Endless Multitude, Termagants
+. Rules: Synapse
+. Abilities: Skulking Horrors
+. 20x Termagants: 20x Fleshborer, 20x Xenos Claws and Teeth
+. . Rules: Assault
+. . Melee Weapons: Xenos Claws and Teeth, Ranged Weapons: Fleshborer, Unit: Termagants
+Profiles:
+. Skulking Horrors: Description:Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6".|
+. Xenos Claws and Teeth: Range:Melee|A:1|WS:4+|S:3|AP:0|D:1|Keywords:-|
+. Fleshborer: Range:18"|A:1|BS:4+|S:5|AP:0|D:1|Keywords:Assault|
+. Termagants: M:6"|T:3|SV:5+|W:1|LD:8+|OC:2|
+
++ Infantry [265pts] +
+
+Neurogaunts [45pts]
+. Categories: Infantry, Great Devourer, Neurogaunts, Endless Multitude, Faction: Tyranids
+. Rules: Synapse
+. Abilities: Neurocytes
+. Neurogant Nodebeast: Xenos Claws and Teeth
+. . Melee Weapons: Xenos Claws and Teeth, Unit: Neurogaunt Nodebeast
+. 10x Neurogaunt: 10x Xenos Claws and Teeth
+. . Melee Weapons: Xenos Claws and Teeth, Unit: Neurogaunt
+Profiles:
+. Neurocytes: Description:While this unit is within Synapse Range of your army, it has the SYNAPSE keyword.|
+. Xenos Claws and Teeth: Range:Melee|A:1|WS:4+|S:3|AP:0|D:1|Keywords:-|
+. Neurogaunt: M:6"|T:3|SV:6+|W:1|LD:8+|OC:1|
+. Neurogaunt Nodebeast: M:6"|T:3|SV:6+|W:1|LD:8+|OC:1|
+
+Zoanthropes [110pts]
+. Categories: Infantry, Fly, Psyker, Great Devourer, Zoanthropes, Faction: Tyranids, Synapse
+. Rules: Shadow in the Warp, Synapse
+. Abilities: Invulnerable Save, Spirit Leech (Aura, Psychic), Warp Field (Aura, Psychic)
+. Neurothrope: Warp Blast, Xenos Claws and Teeth
+. . Rules: Blast, Lethal Hits
+. . Melee Weapons: Xenos claws and teeth, Ranged Weapons: ➤ Warp Blast - Focused Witchfire, ➤ Warp Blast - Witchfire, Unit: Neurothrope
+. 2x Zoanthrope: 2x Warp Blast, 2x Xenos Claws and Teeth
+. . Rules: Blast, Lethal Hits
+. . Melee Weapons: Xenos claws and teeth, Ranged Weapons: ➤ Warp Blast - Focused Witchfire, ➤ Warp Blast - Witchfire, Unit: Zoanthrope
+Profiles:
+. Invulnerable Save: Description:This model has a 4+ invulnerable save.|
+. Spirit Leech (Aura, Psychic): Description:While this unit contains a Neurothrope, while an enemy unit is within 6" of this unit, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds.|
+. Warp Field (Aura, Psychic): Description:While a friendly TYRANIDS unit is within 6" of this unit, models in that unit have a 6+ invulnerable save.|
+. Xenos claws and teeth: Range:Melee|A:2|WS:5+|S:3|AP:0|D:1|Keywords:-|
+. ➤ Warp Blast - Focused Witchfire: Range:24"|A:1|BS:3+|S:12|AP:-3|D:D6+1|Keywords:Lethal Hits, Psychic|
+. ➤ Warp Blast - Witchfire: Range:24"|A:D3|BS:3+|S:7|AP:-2|D:D3|Keywords:Blast, Psychic|
+. Neurothrope: M:5"|T:5|SV:5+|W:3|LD:7+|OC:1|
+. Zoanthrope: M:5"|T:5|SV:5+|W:3|LD:7+|OC:1|
+
+Zoanthropes [110pts]
+. Categories: Infantry, Fly, Psyker, Great Devourer, Zoanthropes, Faction: Tyranids, Synapse
+. Rules: Shadow in the Warp, Synapse
+. Abilities: Invulnerable Save, Spirit Leech (Aura, Psychic), Warp Field (Aura, Psychic)
+. Neurothrope: Warp Blast, Xenos Claws and Teeth
+. . Rules: Blast, Lethal Hits
+. . Melee Weapons: Xenos claws and teeth, Ranged Weapons: ➤ Warp Blast - Focused Witchfire, ➤ Warp Blast - Witchfire, Unit: Neurothrope
+. 2x Zoanthrope: 2x Warp Blast, 2x Xenos Claws and Teeth
+. . Rules: Blast, Lethal Hits
+. . Melee Weapons: Xenos claws and teeth, Ranged Weapons: ➤ Warp Blast - Focused Witchfire, ➤ Warp Blast - Witchfire, Unit: Zoanthrope
+Profiles:
+. Invulnerable Save: Description:This model has a 4+ invulnerable save.|
+. Spirit Leech (Aura, Psychic): Description:While this unit contains a Neurothrope, while an enemy unit is within 6" of this unit, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds.|
+. Warp Field (Aura, Psychic): Description:While a friendly TYRANIDS unit is within 6" of this unit, models in that unit have a 6+ invulnerable save.|
+. Xenos claws and teeth: Range:Melee|A:2|WS:5+|S:3|AP:0|D:1|Keywords:-|
+. ➤ Warp Blast - Focused Witchfire: Range:24"|A:1|BS:3+|S:12|AP:-3|D:D6+1|Keywords:Lethal Hits, Psychic|
+. ➤ Warp Blast - Witchfire: Range:24"|A:D3|BS:3+|S:7|AP:-2|D:D3|Keywords:Blast, Psychic|
+. Neurothrope: M:5"|T:5|SV:5+|W:3|LD:7+|OC:1|
+. Zoanthrope: M:5"|T:5|SV:5+|W:3|LD:7+|OC:1|
+
++ Monster [125pts] +
+
+Psychophage [125pts]: Psycholastic Torrent, Talons and Betentacled Maw
+. Categories: Monster, Great Devourer, Psychophage, Faction: Tyranids, Harvester
+. Rules: Anti- Psyker 2+, Deadly Demise 1, Devastating Wounds, Feel No Pain, Synapse
+. Abilities: Bio-stimulus (Aura), Feeding Frenzy, Feel No Pain 5+, Melee Weapons: Talons and Betentacled Maw, Ranged Weapons: Psycholastic Torrent, Unit: Psychophage
+Profiles:
+. Bio-stimulus (Aura): Description:While a friendly Tyranids unit is within 6" of this model, models in that unit have the Feel No Pain 6+ ability.|
+. Feeding Frenzy: Description:Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll. If that target is also Below Half strength, add 1 to the Wound roll as well.|
+. Feel No Pain 5+: Description:This Model has a 5+ Feel No Pain|
+. Talons and Betentacled Maw: Range:Melee|A:D6+1|WS:3+|S:6|AP:-1|D:2|Keywords:Anti-psyker 2+, Devastating Wounds|
+. Psycholastic Torrent: Range:12"|A:D6|BS:N/A|S:6|AP:-1|D:1|Keywords:Ignores Cover, Torrent|
+. Psychophage: M:8"|T:9|SV:3+|W:10|LD:8+|OC:3|
+
+++ Roster Rules ++
+
+. Synapse: If your Army Faction is TYRANIDS, while a TYRANIDS unit from your army is within 6" of one or more SYNAPSE models from your army, that unit is said to be within Synapse Range of your army. Each time a TYRANIDS unit from your army takes a Battle-shock test, if it is within Synapse Range of your army, take that test on 3D6 instead of 2D6. ()
+
+++ Selection Rules ++
+
+. Anti- Psyker 2+: Weapons with [ANTI-KEYWORD X+] in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word ‘Anti-’, an unmodified Wound roll of ‘x+’ scores a Critical Wound. (10th Edition Core Rules p28)
+
+. Assault: Weapons with [ASSAULT] in their profile are known as Assault weapons. If a unit that Advanced this turn contains any models equipped with Assault weapons, it is still eligible to shoot in this turn’s Shooting phase. When such a unit is selected to shoot, you can only resolve attacks using Assault weapons its models are equipped with. (10th Edition Core Rules p25)
+
+. Blast: Weapons with [BLAST] in their profile are known as Blast weapons, and they make a random number of attacks. Each time you determine how many attacks are made with a Blast weapon, add 1 to the result for every five models that were in the target unit when you selected it as the target (rounding down). Blast weapons can never be used to make attacks against a unit that is within Engagement Range of one or more units from the attacking model’s army (including its own unit). (10th Edition Core Rules p26)
+
+. Deadly Demise 1: Some models have 'Deadly Demise x' listed in their abilities. When such a model is destroyed, roll one D6 before removing it from play (if such a model is a TRANSPORT, roll before any embarked models disembark). On a 6, each unit within 6" of that model suffers a number of mortal wounds denoted by 'x' (if this is a random number, roll separately for each unit within 6"). (10th Edition Core Rules p23)
+
+. Deadly Demise D6: Some models have 'Deadly Demise x' listed in their abilities. When such a model is destroyed, roll one D6 before removing it from play (if such a model is a TRANSPORT, roll before any embarked models disembark). On a 6, each unit within 6" of that model suffers a number of mortal wounds denoted by 'x' (if this is a random number, roll separately for each unit within 6"). (10th Edition Core Rules p23)
+
+. Deep Strike: During the Declare Battle Formations step, if every model in a unit has this ability, you can set it up in Reserves instead of setting it up on the battlefield. If you do, in the Reinforcements step of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" horizontally away from all enemy models. (10th Edition Core Rules p39)
+
+. Devastating Wounds: Weapons with [DEVASTATING WOUNDS] in their profile are known as Devastating Wounds weapons. Each time an attack is made with such a weapon, if that attack scores a Critical Wound, no saving throw of any kind can be made against that attack (including invulnerable saving throws). Such attacks are only allocated to models after all other attacks made by the attacking unit have been allocated and resolved (10th Edition Core Rules p28)
+
+. Feel No Pain: Some models have 'Feel No Pain x+' listed in their abilities. Each time a model with this ability suffers damage and so would lose a wound (including wounds lost due to mortal wounds), roll one D6: if the result is greater than or equal to the number denoted by 'x: that wound is ignored and is not lost. If a model has more than one Feel No Pain ability, you can only use one of those abilities each time that model
+suffers damage and so would lose a wound. (10th Edition Core Rules p23)
+
+. Ignores Cover: Weapons with [IGNORES COVER] in their profile are known as Ignores Cover weapons. Each time an attack is made with such a weapon, the target cannot have the Benefit of Cover against that attack. (10th Edition Core Rules p25)
+
+. Leader: While a Bodyguard unit contains a Leader, it is known as an Attached unit and, with the exception of rules that are triggered when units are destroyed (pg 12), it is treated as a single unit for all rules purposes. Each time an attack targets an Attached unit, until the attacking unit has resolved all of its attacks, you must use the Toughness characteristic of the Bodyguard models in that unit, even if a Leader in that unit has a different Toughness characteristic. Each time an attack sucessfully wounds an Attached unit, that attack cannot be allocated to a Character model in that unit, even if that Character model has lost one or more wounds or has already had attacks allocated to it this phase. As soon as the last Bodyguard model in an Attached unit has been destroyed, any attacks made against that unit that have yet to be allocated can then be allocated to Character models in that unit. (10th Edition Core Rules p39)
+
+. Lethal Hits: Weapons with [LETHAL HITS] in their profile are known as Lethal Hits weapons. Each time an attack is made with such a weapon, a Critical Hit automatically wounds the target. (10th Edition Core Rules p25)
+
+. Shadow in the Warp: If your Army Faction is TYRANIDS, once per battle, in either player’s Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test. ()
+
+. Synapse: If your Army Faction is TYRANIDS, while a TYRANIDS unit from your army is within 6" of one or more SYNAPSE models from your army, that unit is said to be within Synapse Range of your army. Each time a TYRANIDS unit from your army takes a Battle-shock test, if it is within Synapse Range of your army, take that test on 3D6 instead of 2D6. ()
+
+. Torrent: Weapons with [TORRENT] in their profile are known as Torrent weapons. Each time an attack is made with such a weapon, that attack automatically hits the target. (10th Edition Core Rules p25)
+
+Created with BattleScribe (https://battlescribe.net)
